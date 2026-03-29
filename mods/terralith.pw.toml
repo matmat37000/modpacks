@@ -1,6 +1,6 @@
 name = "Terralith"
 filename = "Terralith_1.21.11_v2.6.0_Fabric.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/94lWUKHj/Terralith_1.21.11_v2.6.0_Fabric.jar"

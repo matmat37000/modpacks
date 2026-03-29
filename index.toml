@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "20b667c993ad6940d76f57d0e7f41c7f802571c835c009ce739ac2ef324022df"
+hash = "4006ea58eec006ff95bd1962cc6c6681e451e87ca85db195aa4b25c720cbd07b"
 metafile = true
 
 [[files]]
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "8cdcc8a6b74f7927727e9a2f9f574e152ad05b20f598db3618a3ee1a3bae5604"
+hash = "7a2c1303d6b9d31118d679e9e5e85541d46a8b857df74421c6dec68d5105c45c"
 metafile = true
 
 [[files]]
