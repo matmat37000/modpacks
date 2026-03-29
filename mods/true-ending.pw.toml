@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MCnBYP0b/versions/BWvn4Jtr/tru.e-ending-1.1.4d.jar"
-hash-format = "sha512"
-hash = "fc1f69d77ec073ecafe5df9dbfff97fa633be42bdf4b5fb8325fe55a6219db9cdb48db0b73ae4b110c667e2fcc37c7c5721c377a2f165bbff56bc612daa37432"
+hash-format = "sha256"
+hash = "fe6045cf75892c62b0ef87891d87d949c39126dcf5b14b705d0011802c302c92"
 
 [update]
 [update.modrinth]

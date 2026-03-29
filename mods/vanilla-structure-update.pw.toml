@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/q3gDW66d/versions/p9AB4oNm/vanilla-structure-update-v2.8.jar"
-hash-format = "sha512"
-hash = "96b9aa0386ba90f800d5e38c2c7835d876ca502dd238a5a5c79fb532dfd3b5fa86639c85e8304cb739db1d3449ae02d7f79c26e77efa143920a2ac9f1dd8c65d"
+hash-format = "sha256"
+hash = "eb63d6d895baccea6782ebdc40bf698c20ff942b5ce1119841e3bf8666a5dc3e"
 
 [update]
 [update.modrinth]

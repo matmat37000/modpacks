@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/JWQVh32x/modmenu-17.0.0-beta.2.jar"
-hash-format = "sha512"
-hash = "27cc0fd2c9426e8eba70f96b9d31e6dd756819cc44338b8948167e93fb6e22416d10d2e8c63f7c689c2aca2c27bdb6864d974b92e3f79b3027d23eee1bfbdb2e"
+hash-format = "sha256"
+hash = "01c40010072723ef2c62f9ae06d8aebbb52765aceb8f1b065bb36a37b3d4d7f1"
 
 [update]
 [update.modrinth]

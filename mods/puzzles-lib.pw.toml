@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QAGBst4M/versions/owXZpJai/PuzzlesLib-v21.11.12-mc1.21.11-Fabric.jar"
-hash-format = "sha512"
-hash = "dbf4c97191455fe8e3c6801ddacc17d5157b5922f15a40e490ee0e2b172fe4718f4e5ec93ed244224aa077c7f53dcf30657ca68ac2d7f5692066ea7020af1542"
+hash-format = "sha256"
+hash = "13b1b247706fcbe6ad3062d00f5c96e1785fa506d76bc64864f9631e87a42827"
 
 [update]
 [update.modrinth]

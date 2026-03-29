@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CUQhzQjg/versions/sDF9fNvp/EnderZoology-v21.11.0-mc1.21.11-Fabric.jar"
-hash-format = "sha512"
-hash = "2018ef84da164dc6b08a45ac7f294f09a1680f167f61da5913c135fa386eb5789e4397933b93d04ac3d90de9ed668dae6ae94b2db4922523b30048ffadcc3e3d"
+hash-format = "sha256"
+hash = "49de2c2b75fb8011f502d26619e29b5921fa85c0813f5adf304a90acd97f4a56"
 
 [update]
 [update.modrinth]

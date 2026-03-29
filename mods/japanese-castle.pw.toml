@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Sb6aWvSZ/versions/cQIZ8NdJ/japanese-castle-1.0.jar"
-hash-format = "sha512"
-hash = "5f43f099c19d6c1caf97f49a31dab0805fc0d7c68939f448cb7df29537a047d81b871c876ec0775b4dd212f32f1c6340d9f357c386c53ecd8bf582ecd2eb5267"
+hash-format = "sha256"
+hash = "971d710fcf3c2f0a3605910007ac38125b0a7c569ecd1ae98a0a0bb013340dce"
 
 [update]
 [update.modrinth]

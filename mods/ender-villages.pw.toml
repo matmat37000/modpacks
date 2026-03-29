@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NdeIraZc/versions/Q1Kcj8EV/endervillages-v3.0.0-1.21.11.jar"
-hash-format = "sha512"
-hash = "4c401a1b38fd1feaf20367203ae75f4efbe61a5499cdb6445a6cd55ca9ac7e61d7570e73ebb71e0c4f5a5ba09b30ecf421ee115bc7c5132cbf125a18f4da85b4"
+hash-format = "sha256"
+hash = "0c03bad5fc7263dafba4fe204868cc7a2d56676d26cffc0027a3fc9a7b7d60b9"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZWF3CFup/versions/jegs7QuM/disablecroptrampling-1.0.1.jar"
-hash-format = "sha512"
-hash = "d07e6e7319cf592b1d6b4ca77c130836c35fcbda0579efc223ee2cde4504f07e58c30997c352d5eaf68fc1f3c59f9d60b65208caa89d6f564d16510c7f227308"
+hash-format = "sha256"
+hash = "f2a74ef985a5aa4043dae6d9cdedd0b748bb3b5092790e4b8b5c8c298efadafc"
 
 [update]
 [update.modrinth]

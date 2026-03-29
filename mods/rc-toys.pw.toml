@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9YKCmF3w/versions/SUfYuDsY/rc-toys-1.1.3.jar"
-hash-format = "sha512"
-hash = "cd2c96dfa315ab7311b85098ebd8862e8b760e881f0d6fd2f7f8f02b6d1c0c7cd6147a7e6102685a72a30d33cd9dc5e103f1f698c390a031d142f3935a388160"
+hash-format = "sha256"
+hash = "23a40395c77dc3ff2cd120d488a402b80edfb0d4215e6f43b5c00059f9753f30"
 
 [update]
 [update.modrinth]

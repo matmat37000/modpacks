@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/RV1qfVQ8/versions/T9eILrdQ/ExplorersCompass-1.21.11-2.4.0-fabric.jar"
-hash-format = "sha512"
-hash = "3fadb3186640f7d1588adbab55322be2ea47104efb065f9fa6a1ea88c9c0e98ca9f1d7939900828b430de5beec92d00988bffe331815023fe0e46c0e7069a2b3"
+hash-format = "sha256"
+hash = "f2dcc5b89292bfad3ad0fc73a568e90f921763f1195d8d6e9ebb036e56b0aafe"
 
 [update]
 [update.modrinth]

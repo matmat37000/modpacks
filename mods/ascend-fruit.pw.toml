@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YTR2p7qx/versions/5yZFOrlo/ascendfruit-1.1.2.jar"
-hash-format = "sha512"
-hash = "2dc147d096abb82a56d3ffbe5e3120330e1e76c7c42e8240919d2f576d3861bb3745bca5a0ef461c7b66665f430fd749db6f2c0bf11c705d1047fa49683b67d0"
+hash-format = "sha256"
+hash = "51a641d2fd4e41c336849f0c28cf3b212241d29bbfa20b3b5abc4732c8c99208"
 
 [update]
 [update.modrinth]

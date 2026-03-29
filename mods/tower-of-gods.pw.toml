@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/blVRnARy/versions/Jx0q9Jfq/tower-of-gods-2.0.jar"
-hash-format = "sha512"
-hash = "29d750a68659ca55dd12c8dd4425d5a3179357bb511275da61ddd4d76551bd21934c3ec407269ef9884a7b221c231c0a0c2ce12ef856236d8d7e298922557afb"
+hash-format = "sha256"
+hash = "95be302e190bec0aee6e2ee5abbd6c3dcff19158e47003744f3acbd8225e7a6d"
 
 [update]
 [update.modrinth]

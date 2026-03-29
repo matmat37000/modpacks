@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5fsOIs5O/versions/9WCGgpHJ/NemosMoreLadderVariants-1.0.10%2B1.21.4%28-11%29-Fabric.jar"
-hash-format = "sha512"
-hash = "5b944ea46448a22d21e49500e200a4b22bfcfae61eda4b11bd9b3077cbcbb9ed807ede179996c92faaea3090ecd8b1e464455d20bfcd67744bb4658a96f89c7b"
+hash-format = "sha256"
+hash = "4a0f746fe73f2d0a3fc52ddf3ec4da82b73e998e39baabb79a7bac20588955d3"
 
 [update]
 [update.modrinth]

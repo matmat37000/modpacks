@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CFX9ftUJ/versions/Dt6CV64u/advancednetherite-fabric-2.3.1-1.21.11.jar"
-hash-format = "sha512"
-hash = "121c670dc64ca93d6a3f51bddbf60dfde7187807113cc9dbab18378cfb3a93d948873488f9acbdd086f95b8363d5cbbc3f81e4b2aa353f1e2a6ff9d3eca1cec0"
+hash-format = "sha256"
+hash = "76f997b9387ca9a0a41341ec9b3ef4449a992c617b0edbd29fa60c5fec9362c9"
 
 [update]
 [update.modrinth]

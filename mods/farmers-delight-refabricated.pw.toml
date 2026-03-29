@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7vxePowz/versions/ZP4Uof9C/FarmersDelight-1.21.11-3.4.9%2Brefabricated.jar"
-hash-format = "sha512"
-hash = "732255187fdb84f71a5e22cb331d068a1a513e51c90e5970f2d31c424973dda3c2c16da49b02df582e23f5af9b8080bef79ef8e627b8ede6ddfcaddccaf245da"
+hash-format = "sha256"
+hash = "02bb4c22a5b9f10942f4c952faf7c5d63f269d3c42f43fa36064ffd4b516ab76"
 
 [update]
 [update.modrinth]

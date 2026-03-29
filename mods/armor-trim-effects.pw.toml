@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/M143TH76/versions/cl82Evik/armor-trim-effects-1.0.5.jar"
-hash-format = "sha512"
-hash = "d000b37320109b697dde4c9a398592b30df9bdfae792a071c770313f6c454e6e0e624af95e57d15ab675fbe0f6627ef003472e2a5c9fe9dec99665106df55600"
+hash-format = "sha256"
+hash = "1ead70aae2f53c39ac3e6f60f31284c5992010ed7b4eaab829016906ef0343a0"
 
 [update]
 [update.modrinth]

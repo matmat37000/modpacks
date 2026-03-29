@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vpJduxWZ/versions/R52z5urv/the-lost-woods-1.7.jar"
-hash-format = "sha512"
-hash = "4e33a0d2845743d695020f996708068c4b89717be12a324fca646cc5bd74e247e53971c885110aa2d16563feb79a106f289a8484246f2cc860ff6c3580793c7a"
+hash-format = "sha256"
+hash = "28a78459f071cdd0f8307ef5fab368f9f88409179a429903a155eae236c68015"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fPetb5Kh/versions/CjsPEp1i/NaturesCompass-1.21.11-2.4.0-fabric.jar"
-hash-format = "sha512"
-hash = "552d1368388cef9a08a65bbdaae622c9d79b7530c74a167d44a5901b643bfaa1d1c948f5bdd0a6a6abeee55262419b77edd3a81bbab7c035fdf71deed35810f1"
+hash-format = "sha256"
+hash = "b6790521dfbd9ac8cedb598ca17392242f3713454ad7919fba7ccef6c31230ae"
 
 [update]
 [update.modrinth]

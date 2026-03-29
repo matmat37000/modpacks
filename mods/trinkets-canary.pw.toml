@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nH02ielQ/versions/LI34xEqN/trinkets-3.11.1.jar"
-hash-format = "sha512"
-hash = "afe5f667b548db73c15bfc098445bd993b8154102eb832a0fef15c2cdc5e4ec64ad6b8d60cd82693ae646afcc3194d893686a88a0007bd55cfa87f555ccf720d"
+hash-format = "sha256"
+hash = "7ef0ab8b60857c4659bb605c516b432e849b454f72e09d45eb742a9dbb3f09a4"
 
 [update]
 [update.modrinth]
