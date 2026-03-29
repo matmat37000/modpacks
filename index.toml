@@ -60,11 +60,6 @@ hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
-file = "mods/connected-glass.pw.toml"
-hash = "3ad93c3c1967e7c07135a37a25f84d493c5aac59ad2536e7eee65d4eecaa4cdb"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "d8e2eb843f684b6abe48010c4ebf3e1300bd0fe9a4132e2744757d850171f4b7"
 metafile = true
@@ -82,11 +77,6 @@ metafile = true
 [[files]]
 file = "mods/create-fly.pw.toml"
 hash = "8136f87c25994945b0249f5d50f5e91acf78dc3da7a4e1edd3e695a6c2de77f7"
-metafile = true
-
-[[files]]
-file = "mods/crops-love-rain.pw.toml"
-hash = "32ce7ee069fcf552e2b97a40c16cde030416721075e2a94919d634217c88eb10"
 metafile = true
 
 [[files]]
