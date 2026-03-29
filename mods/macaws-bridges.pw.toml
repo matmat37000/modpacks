@@ -1,0 +1,13 @@
+name = "Macaw's Bridges"
+filename = "mcw-bridges-3.1.2-mc1.21.11fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GURcjz8O/versions/VwHKtWix/mcw-bridges-3.1.2-mc1.21.11fabric.jar"
+hash-format = "sha512"
+hash = "866afffd9e07765596941322ed8d8085c471770360027dea033bae63d5763f672c0934d7277fa9d0d0f6520281deeac5b8107fe089dc6eb07dc9c56341d1e2a0"
+
+[update]
+[update.modrinth]
+mod-id = "GURcjz8O"
+version = "VwHKtWix"

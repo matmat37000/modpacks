@@ -1,0 +1,13 @@
+name = "More Stick Variants (MStV)"
+filename = "MoreStickVariants-1.4.13+1.21.11-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZVv4e6pP/versions/FrycFrhb/MoreStickVariants-1.4.13%2B1.21.11-Fabric.jar"
+hash-format = "sha512"
+hash = "2488e90954e1b81dcaf5e0152a890bb69cb2417087905725f166dadfafa4771b62d65a4a2a4783c7ff4ed29e4759f4416d957173c69324c2fb3cbd113b42fe9e"
+
+[update]
+[update.modrinth]
+mod-id = "ZVv4e6pP"
+version = "FrycFrhb"

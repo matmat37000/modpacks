@@ -1,0 +1,13 @@
+name = "Tower Of Gods"
+filename = "tower-of-gods-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/blVRnARy/versions/Jx0q9Jfq/tower-of-gods-2.0.jar"
+hash-format = "sha512"
+hash = "29d750a68659ca55dd12c8dd4425d5a3179357bb511275da61ddd4d76551bd21934c3ec407269ef9884a7b221c231c0a0c2ce12ef856236d8d7e298922557afb"
+
+[update]
+[update.modrinth]
+mod-id = "blVRnARy"
+version = "Jx0q9Jfq"

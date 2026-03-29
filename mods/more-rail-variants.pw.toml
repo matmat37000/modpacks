@@ -1,0 +1,13 @@
+name = "More Rail Variants (MStV+)"
+filename = "MoreRailVariants-1.0.6+1.21.4(-11)-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KE9A103T/versions/LXM7tHN4/MoreRailVariants-1.0.6%2B1.21.4%28-11%29-Fabric.jar"
+hash-format = "sha512"
+hash = "89a87644699afc36f04cd848e1032e4a83d9b57372b0d78c6b7e0c64bb20065fd69fdea6c3c51ac4e2800312705d846c4cffc21d8a40149c437797c55700be27"
+
+[update]
+[update.modrinth]
+mod-id = "KE9A103T"
+version = "LXM7tHN4"

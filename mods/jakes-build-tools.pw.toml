@@ -1,0 +1,13 @@
+name = "Jake's Build Tools"
+filename = "jakes-build-tools-4.0.5a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DosZdmJF/versions/ohXqZfit/jakes-build-tools-4.0.5a.jar"
+hash-format = "sha512"
+hash = "fe5e9633aecef73a2d32a46de29fd571fdf162cf48d7ed3a2fc6d45c1ed1c63cb37bcc62719d2f637147b2339955bc0c4fe6451326a70957fe435917e9fb76b5"
+
+[update]
+[update.modrinth]
+mod-id = "DosZdmJF"
+version = "ohXqZfit"

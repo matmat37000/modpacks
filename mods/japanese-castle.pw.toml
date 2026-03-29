@@ -1,0 +1,13 @@
+name = "Japanese Castle - Structure ✅"
+filename = "japanese-castle-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sb6aWvSZ/versions/cQIZ8NdJ/japanese-castle-1.0.jar"
+hash-format = "sha512"
+hash = "5f43f099c19d6c1caf97f49a31dab0805fc0d7c68939f448cb7df29537a047d81b871c876ec0775b4dd212f32f1c6340d9f357c386c53ecd8bf582ecd2eb5267"
+
+[update]
+[update.modrinth]
+mod-id = "Sb6aWvSZ"
+version = "cQIZ8NdJ"

@@ -1,0 +1,13 @@
+name = "Crossbow Enchants"
+filename = "Crossbow-Enchants-1.4.0+1.21.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/oc8u3EXG/versions/KpzzGoS6/Crossbow-Enchants-1.4.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "b23599bfd627dee390be91d4975afe9998ae08b5e1c32faa612e25dacedfab5a0892da7fd079d49e730518eafa3c257bb5cba989f7e7738201d8b79661faf93d"
+
+[update]
+[update.modrinth]
+mod-id = "oc8u3EXG"
+version = "KpzzGoS6"

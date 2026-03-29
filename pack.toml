@@ -1,0 +1,13 @@
+name = "Mato"
+author = "MathChameleon"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "28dfd565ac4f2819af62c5fe61306f545e0a79f5bfbd6d84574d01c8ae1e5f71"
+
+[versions]
+fabric = "0.18.5"
+minecraft = "1.21.11"
