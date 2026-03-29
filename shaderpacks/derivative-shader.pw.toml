@@ -1,0 +1,13 @@
+name = "Derivative Shader"
+filename = "Derivative Main d24.4.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VhyiMYpL/versions/pnMUaiAp/Derivative%20Main%20d24.4.4.zip"
+hash-format = "sha512"
+hash = "013159603c3be003422e5986225c9e78981ec031de297868ed1b4af00cbdc02a8cae0a46c042818fd08a9a9d515bae95047b6770276006be4bfec496d71f2d34"
+
+[update]
+[update.modrinth]
+mod-id = "VhyiMYpL"
+version = "pnMUaiAp"

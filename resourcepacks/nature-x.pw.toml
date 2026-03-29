@@ -1,0 +1,13 @@
+name = "Nature X"
+filename = "Nature X - 14.10.1 [1.21.8-1.21.10].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8d8M3Qoz/versions/ikdgyeHq/Nature%20X%20-%2014.10.1%20%5B1.21.8-1.21.10%5D.zip"
+hash-format = "sha512"
+hash = "7536fdfd2fa551f6781071a842a1bc809980757257782723454d174707184795ba50d6ced0302ec9060938c4670a2b84f68584f29fc3e648b3d426b528d479b2"
+
+[update]
+[update.modrinth]
+mod-id = "8d8M3Qoz"
+version = "ikdgyeHq"

@@ -1,0 +1,13 @@
+name = "Vanilla Evolved"
+filename = "VanillaEvolved_1.21.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5Wz8MWHt/versions/mOjuuu8q/VanillaEvolved_1.21.0.zip"
+hash-format = "sha512"
+hash = "5018c9f31f13ac2238d41dab1af55ad8a3cd2e7c467914843a2a3c8a723aac6ba056f843af382ae4ed7a3ca38931cbc9baf10887f81cbf7635aa7eb15d126e84"
+
+[update]
+[update.modrinth]
+mod-id = "5Wz8MWHt"
+version = "mOjuuu8q"

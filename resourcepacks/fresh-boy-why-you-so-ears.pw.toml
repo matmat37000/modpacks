@@ -1,0 +1,13 @@
+name = "Fresh Animations Patch - Boy Why You So Ears"
+filename = "Fresh Patch 1.1.1 - Boy Why You So Ears.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GS9mFZvm/versions/BJIYvv0v/Fresh%20Patch%201.1.1%20-%20Boy%20Why%20You%20So%20Ears.zip"
+hash-format = "sha512"
+hash = "c853754a8638645059c3ca1abf4584d2dde34860fcf6efa8f161762fac952c910ffa061b39e21874569f5b39f1f8b35337a36a0b2489dd4633d50cbaebc9de3f"
+
+[update]
+[update.modrinth]
+mod-id = "GS9mFZvm"
+version = "BJIYvv0v"

@@ -60,6 +60,11 @@ hash = "4daa7a9231fe0088916d6a58c7d9ce5b28fa42610606d82d3f109db1437568a5"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "f13eeb8aca28e44cf982e9b6c20da2b0075a7846ad762863acc9b084c3c5fe82"
 metafile = true
@@ -455,6 +460,11 @@ hash = "4d40b55f6ed0252dac0a2ea1f8f31c4dd62735c1ccd11362bf520140218ef334"
 metafile = true
 
 [[files]]
+file = "mods/skyboxify.pw.toml"
+hash = "ed1ff73055440ca8d1d2de6d124a39fc8b0e3b9083329348b0097e71366f494c"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0014ddb55f7efcb71053ce896910de5e5772e00d679d4547405e716100a8ebd4"
 metafile = true
@@ -557,4 +567,159 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "dc7627acd2784399cce18fee681214142ab575b024c5beee4e679d6739983c5c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/animated-ore.pw.toml"
+hash = "52f81080269f53f1d56be963a1ec9ebfa953bf0193a7fbfcba1f3784593d9c01"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bare-bones-x-fresh-animations.pw.toml"
+hash = "e54f7162d09224ecdb8b391c4525a22f6bc960c8876ff7c08b8d6308650c0a79"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bare-bones.pw.toml"
+hash = "4e07890bec25eadb6a671528dce288e5017f427191b178cb8d6373df192c4d6e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "610e5e08a034d7fdda17d17f37853c1abf19f94425e0a831ced52fccb6ccb063"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-dark-mode-gui.pw.toml"
+hash = "366cdb35906a10563f2a72eb27d043f665b7b281b49c44bbc8f767840fc543e6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-gui.pw.toml"
+hash = "04362da75c454c7a45631663247ddfee44d794b44a52faf9314e03d35b514d24"
+metafile = true
+
+[[files]]
+file = "resourcepacks/connected-paths.pw.toml"
+hash = "8a28497dd331d0df43fe16427bb4c860dbf6bd36131ce5aea0a248f537697954"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dramatic-skys.pw.toml"
+hash = "bca8d231761e7e9935ae2cfe46fafc4d931dd50127869cd0f925fd2446e7e0f5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanted-books-re-covered.pw.toml"
+hash = "cc3b104e8302aa563bee2476f23dfc1881d24f7aba2afe176933f0a67ffd89f7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithless.pw.toml"
+hash = "82551f94ea98ce48e7d4ae4ac1fd423c4b3a83b7db206f7a9ace23b8c25a3805"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-boy-why-you-so-ears.pw.toml"
+hash = "aee1f7ebebe979708b21d51c4a3df48e01480cc4a80c605c59fa94de0f9accd8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-armor-trims-countxd.pw.toml"
+hash = "5c096b8dd8d506b848403627d4d80a69bbe57b4ef5c056d90129b01863919794"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-glints.pw.toml"
+hash = "21aeaf2d70f65f004ae94cb24d72ba756c6a71ad51d7a1362241d57a5ef32a42"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "5eeb485c1c3d025337af5d452e452d93ee69ce5f454cb587b5b6e395273045d9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-shield-pack.pw.toml"
+hash = "4576bf729a0163dccf6042a98774f46f8d8f8be19e1121616a59d3dc5b594e7a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "8ed45d3cf487c5ed8736050223b1b4211d79b44587031238afae1844199727cc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/nature-x.pw.toml"
+hash = "fca0714f1883b1f50b1e8ede1bba2362b4e7fb9cfae43f59f0a224ea1ef46879"
+metafile = true
+
+[[files]]
+file = "resourcepacks/os-colorful-grasses.pw.toml"
+hash = "adc78aa4349b15f997b1731b2347e42297188fbe123bb1a1edfa9b8dd7f79734"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spectral.pw.toml"
+hash = "63af0d70b552b450a1940ee326c3bbdc2e4e788475bb1fda0e64c86421393413"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark.pw.toml"
+hash = "8a48bbd3aa9b0d9cef3abc9e6bd2ecaf7a741f74eee0cb084d5c1f0612f09a54"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-evolved.pw.toml"
+hash = "64e997aefceec0420eff1ead2496e3255aff669c62180f0737a23130ff78a35c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vintage.pw.toml"
+hash = "5632017fd01d392006f15ee66bc15cad163b090ee89f265fb5d321cfed2ee854"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/derivative-shader.pw.toml"
+hash = "02204a10239d0e24fd1ef657194208179ee595a24574027b74d85cfb19e18614"
+metafile = true
+
+[[files]]
+file = "shaderpacks/kappa-shader.pw.toml"
+hash = "a01d824c592eebca3df5b5af6aed07839eb8b544de20a2e4f276cb0622b203c9"
+metafile = true
+
+[[files]]
+file = "shaderpacks/mellow.pw.toml"
+hash = "0148ada4b4d793b8706d823bd72df68c4b53c28f2f8c3a8496a836fb2d429a95"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "0a3f01f56afd065dc65dffb073b4fc5f9ae031aaef08d95d9df92e0093ac8504"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "4fc7f37b65f44ae8ba65a06c9031a9c654c0c1ad993ccbf6f7822d5b7ea98d37"
+metafile = true
+
+[[files]]
+file = "shaderpacks/visual-vibrance.pw.toml"
+hash = "3d61d055ac119a322f57c5f227ef6fd2a2fe76db1ad2ec658d0df896eb7a06b5"
 metafile = true

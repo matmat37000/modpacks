@@ -1,0 +1,13 @@
+name = "Animated Ore"
+filename = "Animated-Ore-0.6.7+mc1.20-1.21.11.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nVJgBqVj/versions/f8hodtLV/Animated-Ore-0.6.7%2Bmc1.20-1.21.11.zip"
+hash-format = "sha512"
+hash = "0a12245b8fcfb0d3f70916d54c0bdc90e46a3b9e1a5ee327c9db8b706d567e93dd5193f87aee94583ed77340f0988a09a27315d34ff08ad50e8e210bfb888244"
+
+[update]
+[update.modrinth]
+mod-id = "nVJgBqVj"
+version = "f8hodtLV"
