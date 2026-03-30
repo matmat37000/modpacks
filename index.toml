@@ -440,11 +440,6 @@ hash = "a43ea4ee2432ba8dc5a709b5489e9795d6bd3ba202a47a7bb62ade32802dc95f"
 metafile = true
 
 [[files]]
-file = "mods/nyfs-spiders.pw.toml"
-hash = "2ae281c251c6437ade6150f68fa89f3f750d505a1162684bf30cc9a5681cb072"
-metafile = true
-
-[[files]]
 file = "mods/oceans-delight-polymer-port.pw.toml"
 hash = "6be97eef2151a9c6a4c1aa4b684eed74088b654b3b3414ef2d8093a9e1c4a4b6"
 metafile = true
