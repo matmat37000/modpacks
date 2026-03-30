@@ -1,0 +1,13 @@
+name = "DinoBriks Rum"
+filename = "dinobriks-rum-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E4vCRf1e/versions/8qgF6z04/dinobriks-rum-2.1.jar"
+hash-format = "sha512"
+hash = "013da17556ac13d5762afc5026ae9a766f9f588c4248662198335232f03b503fc2102e7dc73ad038234938c4d0fb413d94b99366b05b1a7e462852eafda8c1d1"
+
+[update]
+[update.modrinth]
+mod-id = "E4vCRf1e"
+version = "8qgF6z04"

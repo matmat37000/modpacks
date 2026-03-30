@@ -40,6 +40,16 @@ hash = "43e8e8d68a84872789410a3d237518e77a5b22a77d6fbffdfbe8e6daaefdb067"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "9fcf9799b24d4c3463e1a916473eb2baaa67e2d46ba866378bb09769879e46d4"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "037350c2aa47c78e4223154291da5d6dd51e515015d78741f64d3d7b71e25111"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "8741b2b32c105b2fd7e6a67d5cb2090677dbeb59c1ea4288c287056cfe8c356c"
 metafile = true
@@ -50,6 +60,16 @@ hash = "b4ec637d1bb53c8b8d0f737a8effaba59ef592fbdfa3e68b12068d2a98a90e93"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "2515110b3990de9703158168c22b4ecafc739c399e421daedbfba24442224ba5"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "2fa6655542b90a86aa6a27219aa662bddd1b38a13bbb1f5a35eb49b1920478d6"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "82d556cbf00b001a5ed8d9a2e013b87202f4cad1f9126a05639226a52bc78521"
 metafile = true
@@ -57,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "4daa7a9231fe0088916d6a58c7d9ce5b28fa42610606d82d3f109db1437568a5"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "4770a4eeea89b0dbd208491d31767f73cc0cea82496fedeeb045736c415c2947"
 metafile = true
 
 [[files]]
@@ -97,6 +122,16 @@ metafile = true
 [[files]]
 file = "mods/cyberanner-ironchest.pw.toml"
 hash = "f4d2d5ab7be3a953312d697e28272d2947b5782f5236273f45e687d0f61b88ad"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "bc5a44f0b1c3f3035632fb5367f3ca0e6d87b0bdbc36e60f77d6949defd28dfd"
+metafile = true
+
+[[files]]
+file = "mods/dinobriks-rum.pw.toml"
+hash = "62c58449525c8da2ee1ac4f8e93c31b6b7802ce9eddd1bd07454548641866729"
 metafile = true
 
 [[files]]
@@ -425,6 +460,11 @@ hash = "a01500938832747a718fdbbb1288711cb2c2867cbca4777b527a6a7629fc7baf"
 metafile = true
 
 [[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "3e1fa6022713505134e045b9713884cb235f3639ea12e7dc64f5f2c39520be85"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "163e8ad1435ff191828319236faf81a70c973a8fb675d228fcdd1aa81e429ffb"
 metafile = true
@@ -487,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "ce1ec421154c7e32ada6a642f60193a6ecb54822548d46690c4c821557709fef"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "0a34ef4a4390497e703251647b581da1f0a89f60e7382a5fa0ec61ad75e211ab"
 metafile = true
 
 [[files]]
