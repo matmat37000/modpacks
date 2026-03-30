@@ -405,6 +405,11 @@ hash = "a43ea4ee2432ba8dc5a709b5489e9795d6bd3ba202a47a7bb62ade32802dc95f"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "2ae281c251c6437ade6150f68fa89f3f750d505a1162684bf30cc9a5681cb072"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight-polymer-port.pw.toml"
 hash = "6be97eef2151a9c6a4c1aa4b684eed74088b654b3b3414ef2d8093a9e1c4a4b6"
 metafile = true
@@ -445,6 +450,11 @@ hash = "090f6c72b37f3b703fe15778c185ad52476b756ae9e291466d14688136cb19b9"
 metafile = true
 
 [[files]]
+file = "mods/repo-heads.pw.toml"
+hash = "1588232e3d7d2eca05804515f4c3f518c24efdb85a42eb973cc0e68230683615"
+metafile = true
+
+[[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "e7684d235645173aa097bc3bfce8b187f53ba51d0c219e1d5285a7b991862351"
 metafile = true
@@ -457,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/short-circuit.pw.toml"
 hash = "4d40b55f6ed0252dac0a2ea1f8f31c4dd62735c1ccd11362bf520140218ef334"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "1a46fc1461381334dc18d4ec2bf9368d2aeb97c83eaab6ccf85ccf515497ebd0"
 metafile = true
 
 [[files]]
@@ -500,6 +515,11 @@ hash = "e19ce4282f0c9ac4ef825c82973845a0497d0a33df8d8fc105c96e93bcceecbc"
 metafile = true
 
 [[files]]
+file = "mods/toms-mobs.pw.toml"
+hash = "acd216ce2ac2424c7881eaf8c46e82eaef7caa81903454dc1aae6f56cbcd26e2"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "06002fb064b9203f103839720529b1f388468aad9bd4301b50bd736989752c3b"
 metafile = true
@@ -537,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-structure-update.pw.toml"
 hash = "36b1041d74e00e6741c2e1acda357b6b1f5fae0edab2ed215e4676d93a83c783"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "ee63322f2464e89370cf12c55740929876bf4591ab17b1ff4204d331c5cd272f"
 metafile = true
 
 [[files]]
