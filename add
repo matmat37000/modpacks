@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+usage() {
+  local name="$(basename "$0")"
+  echo -e "Usage $name:\n\t$name <mod url>"
+  echo -e "\t$name <mod ID>"
+  echo -e "\t$name <mod Name>"
+}
+
+file="$1"
+
+if [[ -z "$file" ]]; then
+  usage
+  exit 1
+fi
+
+packwiz modrinth add "$file"
+git add .
+git commit -qm "Added '$file'"
