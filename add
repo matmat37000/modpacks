@@ -17,3 +17,4 @@ fi
 packwiz modrinth add "$file"
 git add .
 git commit -qm "Added '$file'"
+echo -e "\033[93mDon't forget to push !\033[0m"
