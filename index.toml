@@ -105,11 +105,6 @@ hash = "9e6baad1272dbf6a66cbc713539ac069b6b3877e5b71151325a792e057b0e0b2"
 metafile = true
 
 [[files]]
-file = "mods/crossbow-enchants.pw.toml"
-hash = "586f71e66f3c193804e5239e23d42b9f71d51bd43712c2c61d6507e44584176b"
-metafile = true
-
-[[files]]
 file = "mods/cultural-delights-polymerized.pw.toml"
 hash = "b1805bca536ef07c38cc1d0b12c4c8d72b76429c711f4878d8eedea8b6a0db5e"
 metafile = true
