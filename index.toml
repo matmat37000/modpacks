@@ -105,11 +105,6 @@ hash = "9e6baad1272dbf6a66cbc713539ac069b6b3877e5b71151325a792e057b0e0b2"
 metafile = true
 
 [[files]]
-file = "mods/cultural-delights-polymerized.pw.toml"
-hash = "b1805bca536ef07c38cc1d0b12c4c8d72b76429c711f4878d8eedea8b6a0db5e"
-metafile = true
-
-[[files]]
 file = "mods/cyberanner-ironchest.pw.toml"
 hash = "f4d2d5ab7be3a953312d697e28272d2947b5782f5236273f45e687d0f61b88ad"
 metafile = true
