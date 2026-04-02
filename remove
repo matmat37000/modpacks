@@ -15,10 +15,10 @@ fi
 for name in "$@"; do
   packwiz remove "$name"
   if [ ! $? -eq 0 ]; then
-    exit 1
+    continue
   fi
 
   git add .
   git commit -qm "Removed '$name'"
-  echo -e "\033[93mDon't forget to push !\033[0m"
 done
+echo -e "\033[93mDon't forget to push !\033[0m"

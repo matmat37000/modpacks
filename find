@@ -16,6 +16,6 @@ fi
 for name in "$@"; do
   for file_name in $(find . -type f -iname "*$name*"); do
     base_name=$(basename $file_name)
-    echo "${base_name//\.toml/}"
+    echo "${base_name//\.pw\.toml/}"
   done
 done

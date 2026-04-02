@@ -18,5 +18,5 @@ for name in "$@"; do
   packwiz modrinth add "$name"
   git add .
   git commit -qm "Added '$name'"
-  echo -e "\033[93mDon't forget to push !\033[0m"
 done
+echo -e "\033[93mDon't forget to push !\033[0m"
