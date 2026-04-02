@@ -12,13 +12,16 @@ if [[ -z "$file" ]]; then
   exit 1
 fi
 
+names=()
+
 for name in "$@"; do
   packwiz remove "$name"
   if [ ! $? -eq 0 ]; then
     continue
   fi
 
-  git add .
-  git commit -qm "Removed '$name'"
+  names+=("$name")
 done
+git add .
+git commit -qm "Removed '$names'"
 echo -e "\033[93mDon't forget to push !\033[0m"
