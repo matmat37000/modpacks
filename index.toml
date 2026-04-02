@@ -10,6 +10,11 @@ hash = "4dbd96594d524f46f9b6c0f992ee0876457371b068aa8b19c3e1435df415c638"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "394030f614ec2081350023cc8f8b25f8210894bb8950da36f8364a8fe8893a6e"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "688a7663016a626d63b4c0524294a5c5c2f739825acaf53531aea013698f0050"
 metafile = true
@@ -102,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/create-fly.pw.toml"
 hash = "9e6baad1272dbf6a66cbc713539ac069b6b3877e5b71151325a792e057b0e0b2"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "dc2222f80d2bffd28cecbebecb3b024e6d52ac49375f0407422e5249491a2ac6"
 metafile = true
 
 [[files]]
@@ -402,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/more-stick-variants.pw.toml"
 hash = "6241992927741662baad7c0573350fdb760a1410afb5b0c4ea4513271109ccab"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
 metafile = true
 
 [[files]]
