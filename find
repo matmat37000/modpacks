@@ -13,7 +13,9 @@ if [[ -z "$file" ]]; then
   exit 1
 fi
 
-for file_name in $(find . -type f -iname "*$file*"); do
-  name=$(basename $file_name)
-  echo "Found: ${name//\.toml/}"
+for name in "$@"; do
+  for file_name in $(find . -type f -iname "*$name*"); do
+    base_name=$(basename $file_name)
+    echo "${base_name//\.toml/}"
+  done
 done
