@@ -5,11 +5,6 @@ file = "README.md"
 hash = "fdbecbf80eceb71716af89a1da06165d250a65c1d6356bd8f5f40ab2c31e8749"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "48597fbcfe2274e8fa4d3897196847a68dbf076b2ebf36e2d976d40c148b04a4"
-metafile = true
-
-[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "4dbd96594d524f46f9b6c0f992ee0876457371b068aa8b19c3e1435df415c638"
 metafile = true
