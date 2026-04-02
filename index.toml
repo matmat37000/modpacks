@@ -295,6 +295,11 @@ hash = "6446674196f2bbab02c44024aa6dff07445d1dd6c09968e5a90002817062f4a5"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "4006ea58eec006ff95bd1962cc6c6681e451e87ca85db195aa4b25c720cbd07b"
 metafile = true
@@ -417,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/netherite-compass.pw.toml"
 hash = "a43ea4ee2432ba8dc5a709b5489e9795d6bd3ba202a47a7bb62ade32802dc95f"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "3768141d0bf4d655f2df823b39997d171f1d3950d1f00f7bbb78df82a6a26d4e"
 metafile = true
 
 [[files]]
