@@ -185,11 +185,6 @@ hash = "585ad76b91e5025ec2d9b61270cb58953d996779bae9b81b1ba12688828ee177"
 metafile = true
 
 [[files]]
-file = "mods/expanded-crossbow-enchanting.pw.toml"
-hash = "7d8bf42424cb6818f1b28abd92a075aedee09e8321a831bc74cc050ad0c94b8b"
-metafile = true
-
-[[files]]
 file = "mods/expanded-trident-enchanting.pw.toml"
 hash = "a69e5a2e70ed1f43095e7bc605099199fb7d3d1a02a46e32e1a5ee62212a4bdb"
 metafile = true
