@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+usage() {
+  local name="$(basename "$0")"
+  echo -e "Usage $name:\n\t$name <mod YAML name>"
+}
+
+file="$1"
+
+if [[ -z "$file" ]]; then
+  usage
+  exit 1
+fi
+
+packwiz remove "$file"
+if [ ! $? -eq 0 ]; then
+  exit 1
+fi
+
+git add .
+git commit -qm "Removed '$file'"
+echo -e "\033[93mDon't forget to push !\033[0m"
