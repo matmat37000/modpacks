@@ -5,6 +5,22 @@ file = "README.md"
 hash = "fdbecbf80eceb71716af89a1da06165d250a65c1d6356bd8f5f40ab2c31e8749"
 
 [[files]]
+file = "add"
+hash = "37788fa84b16759303743d4f023bc2e11b8ecbb758a95ba049ee5e7f70546415"
+
+[[files]]
+file = "find"
+hash = "4bcdb2f6f3c119b2960927ac556fd883dec2836acad1e11b46665fafb4dae094"
+
+[[files]]
+file = "main.py"
+hash = "64aa26df0683837aee31b334fd5b2cfa1ccb72d5fd479042f06ceaa9a6181dcc"
+
+[[files]]
+file = "modrinth.index.json"
+hash = "76ce887855e00e9947996dcb411d5835f95e285dfaf75e4bf6bc963a7b58a542"
+
+[[files]]
 file = "mods/advanced-netherite.pw.toml"
 hash = "4dbd96594d524f46f9b6c0f992ee0876457371b068aa8b19c3e1435df415c638"
 metafile = true
@@ -638,6 +654,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "dc7627acd2784399cce18fee681214142ab575b024c5beee4e679d6739983c5c"
 metafile = true
+
+[[files]]
+file = "remove"
+hash = "9ca29ac7e033ebbf49f51364c92d25008c03963ddcaba5deb8ab64a670992aab"
 
 [[files]]
 file = "resourcepacks/animated-ore.pw.toml"
