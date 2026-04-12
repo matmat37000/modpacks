@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/8d8M3Qoz/versions/ikdgyeHq/Nature%20X%20-%2014.10.1%20%5B1.21.8-1.21.10%5D.zip"
-hash-format = "sha512"
-hash = "7536fdfd2fa551f6781071a842a1bc809980757257782723454d174707184795ba50d6ced0302ec9060938c4670a2b84f68584f29fc3e648b3d426b528d479b2"
+hash-format = "sha256"
+hash = "925d6fa76511654563abcf4454c9422d0dbc24da812e7e0f035098ce7e77c6e4"
 
 [update]
 [update.modrinth]

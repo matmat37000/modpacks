@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FzyTKtVF/versions/oeiYflxJ/Stoneworks-v21.11.0-mc1.21.11-Fabric.jar"
-hash-format = "sha512"
-hash = "67cf6400744f17d765583308511d0f9778ed1cbdb9b2be8969b8276f1f185e9541e077cd9b71762633a118ac1596bf91c7074676827b26e8cb4bbc25df4ef2bc"
+hash-format = "sha256"
+hash = "b7f48859fd14f894e7e3113ad292b0b23dd47156a1ff9002d6485b8c9a8139cd"
 
 [update]
 [update.modrinth]

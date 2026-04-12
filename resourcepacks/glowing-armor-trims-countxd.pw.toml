@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/bsBedndu/versions/tVKtunxL/glowing%20trims%201.20%20v1.5.zip"
-hash-format = "sha512"
-hash = "9cf3db41aacd2e241525d1da2665500e76fec7785f10b2c9ed10c10ae13c1ab2d9840572db12c18aaa6937ad894fb26de4060abfc7b55c55c285ab32268ef8d8"
+hash-format = "sha256"
+hash = "58d31021ff51bc907de2bc3c67336d276e9336b8249a086d95d0e7f66d769795"
 
 [update]
 [update.modrinth]

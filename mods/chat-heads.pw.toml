@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/AAR2TTo3/chat_heads-1.2.1-fabric-1.21.11.jar"
-hash-format = "sha512"
-hash = "c3f7f8e3f74aa8e20b537bc255b4b196fdb1b1cc714e6b6d4775251b01a810aaa9704845a525f96461db80eca8d0da1ec79fb2c24c95e5335b9c15a056219ddb"
+hash-format = "sha256"
+hash = "7582c76592bace1e63f93bd4a1647f8ac94db1cb8ae8a578156b11a85503e379"
 
 [update]
 [update.modrinth]

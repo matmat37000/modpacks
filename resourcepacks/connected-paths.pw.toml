@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Nyfj98b5/versions/GtS4qSdF/Connected-Paths%201.21.9%2B%20v2.1.1.zip"
-hash-format = "sha512"
-hash = "81d52ee6e50919adf7664687f8cb393292f3e1691458f9119ad77aaf206c25b9852be806c664919f3aac2ed17eff75b17acfc800438ca82f4af5c644c7217640"
+hash-format = "sha256"
+hash = "4f713f495dad463fdb232cd0d2f4a879327f50f37138a317bace03248f790d6c"
 
 [update]
 [update.modrinth]

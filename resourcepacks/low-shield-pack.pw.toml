@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/CZrLuVQo/versions/vx15cRaw/Low%20Shield.zip"
-hash-format = "sha512"
-hash = "59758473c4ed760d9d8616c17f42f9f62023a959746f991b35977e6e5db7430060aa5129c0a13ccb3852fb90a9692b141bac858aa27872e96adf5f5b15b064b0"
+hash-format = "sha256"
+hash = "a49db20b00ceb0ba748fcd9ffee37a44283ee81cd757be26c4bbf8e69c82e898"
 
 [update]
 [update.modrinth]
