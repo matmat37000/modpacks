@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/BUxf36AP/versions/rVv6zKsq/Mellow%20Shader%20v3.1.zip"
-hash-format = "sha256"
-hash = "e5c774c332b8d72434f1809b3cc396cbd896c203f58d0f071cc23e8868804b6d"
+hash-format = "sha512"
+hash = "96a6a6ab469f2bff518ad2d55396454ff6aa04c03410b2c52e207a45ae272c975df81e7f401a5af8cb36ddad1f7a9ec9cd8b768765c7ef606ca0c9f6db4eb0f8"
 
 [update]
 [update.modrinth]

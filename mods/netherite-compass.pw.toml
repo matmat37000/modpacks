@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AnC3DwAn/versions/r3WNU7NG/netherite_compass-1.14.0.jar"
-hash-format = "sha256"
-hash = "9ff51030abe6c13e7b79db0af30f18972a59a3e9475c349100491c63751ca91b"
+hash-format = "sha512"
+hash = "557b90787a1bd0e81087c6a90173ed04fd021e07b968aed81349d456252e342c8c5eabf0b185b2041bd30653ec0bfc310ee505deaafa8950f06c23d25b28b6a8"
 
 [update]
 [update.modrinth]

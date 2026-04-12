@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/9PqoA83N/vcinteraction-fabric-1.21.11-1.0.8.jar"
-hash-format = "sha256"
-hash = "7aadd28fd8f2160bdf91b64416a45830219252a6d051a427f29e5a121ae3bd25"
+hash-format = "sha512"
+hash = "c16e9233d4798333650e90006b0657a0e7c347703fbab5e9546d38ffc528f9df2bbf82bf2e4d0b49de2ec6891b3b550b6104b0d3a8b111527434359fc41c6411"
 
 [update]
 [update.modrinth]

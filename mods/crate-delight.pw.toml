@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/IR6GwDZc/cratedelight-25.10.11-1.21.7-fabric.jar"
-hash-format = "sha256"
-hash = "603f196b0f1c06f8d9b8f32ec5c8b9c257b94bf916ee460951abf98cea6b66b8"
+hash-format = "sha512"
+hash = "8328dc47d7610ae149c88f5078b3059919ebad3553738464e14aeee8ed887344a2cef13824d8bc18ef7ff5e5dc78b9f0248fe612b4c239b08d119f78cf5f6fcc"
 
 [update]
 [update.modrinth]

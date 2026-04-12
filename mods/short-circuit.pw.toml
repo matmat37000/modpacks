@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5dUwdwpB/versions/DbqgrslJ/short_circuit-fabric-1.21.11-1.0.9.jar"
-hash-format = "sha256"
-hash = "eed6aa5d9d841430d72e35450398298f99e99fe366de0facfc500304be62afb7"
+hash-format = "sha512"
+hash = "b99b48ac1091aac547b141f0cb56b332f3e866e74cc602cf0ba22239d5987050d8a5f06ef17ed24b8b53e133567c725d28e4cf7c1f004d0f4d89020493bb45fb"
 
 [update]
 [update.modrinth]

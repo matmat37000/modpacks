@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZVv4e6pP/versions/FrycFrhb/MoreStickVariants-1.4.13%2B1.21.11-Fabric.jar"
-hash-format = "sha256"
-hash = "a2df124aac58cdb6d75a1e799b2c8ed0e9f065f45b4f35808c5b4758bf0796f9"
+hash-format = "sha512"
+hash = "2488e90954e1b81dcaf5e0152a890bb69cb2417087905725f166dadfafa4771b62d65a4a2a4783c7ff4ed29e4759f4416d957173c69324c2fb3cbd113b42fe9e"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/B8jaH3P1/versions/KQqPCHJC/mcw-roofs-2.3.2-mc1.21.11fabric.jar"
-hash-format = "sha256"
-hash = "4850de31eed4dc8ee2cea19edabe454fc2bcaccad5ed5bbcbb0b9b2c9cc2aed2"
+hash-format = "sha512"
+hash = "cabb092dadf2aeba926e6257158510669572906d9cbb53e6afab10ea167ace45ead6f6316513e1ae58e5551ebc5b1b4afc6a2cccfa50b2ec48f0eebbd525e6dc"
 
 [update]
 [update.modrinth]

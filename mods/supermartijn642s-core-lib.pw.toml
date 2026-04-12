@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rOUBggPv/versions/dPv2aGjQ/supermartijn642corelib-1.1.20-fabric-mc1.21.11.jar"
-hash-format = "sha256"
-hash = "569738e3abc2e572073f6abb7ef0d8676b88015e24f0926327e249acbf6d4326"
+hash-format = "sha512"
+hash = "ac87e290fe09a537fb8c17025bdbeb792d12ccda32e2cb538bae6b5632211e31a51888547ff762df9f86f77b8c127a017035282b452613e541fb8263ed4cd0e0"
 
 [update]
 [update.modrinth]

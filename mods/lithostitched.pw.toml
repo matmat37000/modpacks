@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/XaDC71GB/versions/s47RpVwc/lithostitched-1.6.1-fabric-1.21.11.jar"
-hash-format = "sha256"
-hash = "a52ccaa0342359d22b588bc90c45c8ce64f3601b0580a3818a25e32c4ac6ffe2"
+hash-format = "sha512"
+hash = "250f7cc0d67c2796cebbd496672d302c1837d2601f72cfc8a568994b6f2bdc3f71f662bd44681dbc702d076c61a2ca131cdc860e522546c34dc576e6d0cd7a03"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/RRxvWKNC/versions/vWFpZjNP/LowOnFire%20v1.21.11%C2%A78.zip"
-hash-format = "sha256"
-hash = "1ee8fb692cf7bd9546d101c19d804b3823b22b3f283fb3d3b50b01a9be8bcc2f"
+hash-format = "sha512"
+hash = "63cea628e40b610142cfebf6e7a1cb17d244b93c76c01b645fff817c0ec4d63703e1e0bd5cd8c0851557fa87abae2f9bfad617fc47583adabc30f5a2b3109cf8"
 
 [update]
 [update.modrinth]

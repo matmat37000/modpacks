@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HFlOMXxp/versions/MR17DHhj/internet-redstone-1.2.0.jar"
-hash-format = "sha256"
-hash = "9d177ef570a79d84be6901831c915aeeba605506f255057874634790e975bbe2"
+hash-format = "sha512"
+hash = "3e0335a0ebcd26df5483844d3e45caa968bd9293bd6e1f444efdd32fbd0fb36ebe074157c7e30dfc83db80a873abc0081b98880d999cf0bccfae35801aa3c5b5"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/GS9mFZvm/versions/BJIYvv0v/Fresh%20Patch%201.1.1%20-%20Boy%20Why%20You%20So%20Ears.zip"
-hash-format = "sha256"
-hash = "f7ebd40c30cc006fb37e8687920649d930d577c16a69d443887ca7afa2525687"
+hash-format = "sha512"
+hash = "c853754a8638645059c3ca1abf4584d2dde34860fcf6efa8f161762fac952c910ffa061b39e21874569f5b39f1f8b35337a36a0b2489dd4633d50cbaebc9de3f"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/okE6QVAY/versions/g3YUipMS/mcw-paintings-1.0.5-mc1.21.11fabric.jar"
-hash-format = "sha256"
-hash = "3d47c7547733bb5dfbe911d3ee42d4dbb8d1c4d9d33cd1f7b739782a7040ee8d"
+hash-format = "sha512"
+hash = "15e075ba8081453b9da0f40387a4d7e98354f505489baa0497cb3bf95eac01d69f7fc2081462efe7e4d6cabbfe92beb750b992a1f8597865f7c337ebeb5d89c6"
 
 [update]
 [update.modrinth]

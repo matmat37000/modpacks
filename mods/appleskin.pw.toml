@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/59ti1rvg/appleskin-fabric-mc1.21.11-3.0.8.jar"
-hash-format = "sha256"
-hash = "04fe837be8f10bb5e6b999238594466c59bdb641a54512f19f1e67241d882ae3"
+hash-format = "sha512"
+hash = "d32206cb8d6fac7f0b579f7269203135777283e1639ccb68f8605e9f5469b5b54305fd36ba82c64b48b89ae4f1a38501bfb5827284520c3ec622d95edcfa34de"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/L85p0yMA/versions/ByX1BZf5/%C2%A7lColourful%20Containers%C2%A78.zip"
-hash-format = "sha256"
-hash = "8d0e921a3fc7dd28ad0e0f11a94cfd549b66fda0fa37bac23103841bc0655380"
+hash-format = "sha512"
+hash = "9e54a83cae56b7dc86a3fa49151f22a781980ef3129f4bd61690e0ac2aa9d79658e5516c87e8ab9a66bffb801171ebf4a470a58c72944b2a35521b846fa7c8d8"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QmCOBeSP/versions/UImDrwFF/ironbookshelves-1.21.11-1.4.11-fabric.jar"
-hash-format = "sha256"
-hash = "bc9b12e0d3770d01a0cb59470bddac71b3a0867b91e75a9ad9d84acb664b475a"
+hash-format = "sha512"
+hash = "593f8a00c8fb697ab564f44e6a26788b1397f5e43577b3404f325704b48f0c08379781764f86bc3504511a30ffc240805d8e44e7586853b9a9a55aac7fbac316"
 
 [update]
 [update.modrinth]

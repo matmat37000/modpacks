@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/geljgW9V/versions/NQXr126P/wind_boost_enchant-2.0.0.jar"
-hash-format = "sha256"
-hash = "b7d56593507c0149b009744ffdc3a3f694f2da3cb52bba99f7d9ff9c09526d52"
+hash-format = "sha512"
+hash = "2f645c41f755c503c2435db31db05ced3cddef58eaa767b85e9ae689b18d855ac6e133a36c9538323c556a561587e74a903fff8e58e0f1d67bc27e350a07ed46"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/foa4fGIH/versions/xnEVSkh3/rusticdelight-fabric-1.21.11-1.5.4.jar"
-hash-format = "sha256"
-hash = "eea9cd8b1a3f56299dd5c6fd1611067929493296ede83771b9e34c13d62749c9"
+hash-format = "sha512"
+hash = "2991c8ba73cd49c0ad4af59fe0c5c851ed977d0283f4b3aabc571f8ee0351c3580e60584cf6a135a396b2a0ff753fff0037263d64a2066294f44c6dea0436d49"
 
 [update]
 [update.modrinth]

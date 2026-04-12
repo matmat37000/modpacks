@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/htFd9eMF/versions/Zx5O38Om/hidearmor-1.4.3.jar"
-hash-format = "sha256"
-hash = "cba2b16eadd39408a04beb612d273af693702fb029ca7794f07e04638a9b4afa"
+hash-format = "sha512"
+hash = "9aeda6c62bf41ac8aad301ac10d70733159ed431ed62d13459ccbfc8a30e174c0c5999bd0940c777965107594a21179c7ed61575874485b945950a276cb72be4"
 
 [update]
 [update.modrinth]

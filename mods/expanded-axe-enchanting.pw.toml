@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/nmJ9dZtI/versions/oQi8XTmP/expanded-axe-enchanting-1.1.10.jar"
-hash-format = "sha256"
-hash = "4ccf8fea10a19d00eb3030ecbb95bdd6d38b6c1fcb458aae36a60b9107ec0f39"
+hash-format = "sha512"
+hash = "45a94eeadae1574a95f3994a3d1be2b9b2bbbf8804ba315575d5a5d4b365eee1d70d613fa330a26ca81a7e3fbb122f4cefb635d0207b64be898955ea5450af1f"
 
 [update]
 [update.modrinth]

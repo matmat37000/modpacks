@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Jaoe8qGe/versions/gzHqZZxi/repo-heads-1.2.0%2B1.21.11.jar"
-hash-format = "sha256"
-hash = "948fe03bf6dcc2ada1da2a23bd7582483cdc0331b76e3f48df8195f7b38356bd"
+hash-format = "sha512"
+hash = "30100ac9868de89f87ae1ae52b3fbfa3cf7e205d4f9bf1277c73d474ef1168196ad13f9b836832d53db436f2bd03275ff214c2f7a0c5cb27c6facf62031ef64c"
 
 [update]
 [update.modrinth]

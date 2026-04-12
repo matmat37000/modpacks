@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bybyRAPl/versions/lLJNMzFD/integrated-circuit-1.21.11-1.6.6.jar"
-hash-format = "sha256"
-hash = "69b97db2b8461875b9e3f65a42737d217a8724e01ad2a4399b9787e4ab20f257"
+hash-format = "sha512"
+hash = "081e1a3b44411b03c74593fd63f1ebad09edc1af8e90287cc9b9974290b135fbea2556a98a078af6da9dfec12b8d607d857600f91f6c772e9126349175d4695c"
 
 [update]
 [update.modrinth]
