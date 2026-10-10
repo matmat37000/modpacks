@@ -1,0 +1,13 @@
+name = "26.3-23235dda"
+author = "matmat37000"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "371b74744a432d944f0b65af800b79b0ea8a845d2a5899c587cc8added7d6fff"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"
