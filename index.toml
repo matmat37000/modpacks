@@ -195,11 +195,11 @@ metafile = true
 
 [[files]]
 file = "mods/rattus-26.3-1.0.0-SNAPSHOT.jar"
-hash = "706c6961c60aa3e130e9675d9533e2d529dbbd5ce44e4452692b2e04e20892ff"
+hash = "5b11a7ebcd411979d1ead91ef0f885b7b9643fd8c6c443aa38be02265de228c7"
 
 [[files]]
 file = "mods/rattus.pw.toml"
-hash = "a1daefa79b44837f509562a70367cabb03126eb0bb3df08ef8d1ec22d58b2bce"
+hash = "cc9ee043c457bf0d0ef99d7caeef470bfc55866490c28a3bce0862863c62d1b0"
 metafile = true
 
 [[files]]
@@ -311,3 +311,7 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
 metafile = true
+
+[[files]]
+file = "update-rattus.sh"
+hash = "56f68e6ae67b44fc5126ae62da8fdff9edc35567c4333a11631ba209ec54c441"
