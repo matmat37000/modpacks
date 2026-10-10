@@ -119,6 +119,11 @@ hash = "3eb12471fce0aadbda432f7fd5ba4e2120e0e0ebbb3663eea756a17ec0254407"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "96e6f76c367bf89cc570c0e95a16979806e4c3e24f135878b272e3ef43e00b37"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a7f6a1543f41198911a8b1e5e059fa0c8003365ebd6c2314e2dfa0806aff300a"
 metafile = true
