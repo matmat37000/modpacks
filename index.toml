@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "fdbecbf80eceb71716af89a1da06165d250a65c1d6356bd8f5f40ab2c31e8749"
-
-[[files]]
 file = "import_modpack.py"
 hash = "b98cc8d5a9b1cbbe05adf4b82a3951e3e281d99403371611fd1a72f89b8441bb"
 
@@ -311,7 +307,3 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
 metafile = true
-
-[[files]]
-file = "update-rattus.sh"
-hash = "56f68e6ae67b44fc5126ae62da8fdff9edc35567c4333a11631ba209ec54c441"
