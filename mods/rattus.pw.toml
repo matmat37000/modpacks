@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/matmat37000/modpacks/raw/refs/heads/26.3-23235dda/mods/rattus-26.3-1.0.0-SNAPSHOT.jar"
 hash-format = "sha512"
-hash = "95c647d83d1ff5c7180f8f7771734ceb8a7c4b1abec4fb4e22befd0645b269ae658300d5f0fc7ff47ae3943c121f60736065f49180c6d16550d37c29373a484e"
+hash = "0e18b2d22dd0d3486e046ec65eb43f407bfe5f7d44152a3b191b2ca93da529b4a0667697c96d4f6f6b4a8ebe71a4d6339125bfb064fbeb630177422af613f952"
