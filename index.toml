@@ -201,11 +201,11 @@ metafile = true
 
 [[files]]
 file = "mods/rattus-26.3-1.0.0-SNAPSHOT.jar"
-hash = "21b8888aae59d33a0985dcc322438a2ca7bf8203ede8412fac0382e76667612a"
+hash = "f12a8e7022d3ea503c1af7fea510cd909b719117bb983ae9cdb299637139432e"
 
 [[files]]
 file = "mods/rattus.pw.toml"
-hash = "1d56fd4c32065de29c5db97503dbabf8df98fa14cf8d37ade0ca6b2d7e23e011"
+hash = "005d96b7d1f8794b72a69574bf97c98d12610b9f9bd48782e19ae9bc894757b6"
 metafile = true
 
 [[files]]
