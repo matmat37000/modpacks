@@ -15,6 +15,11 @@ hash = "97ffadc9852dc08c2d2b3c26d9bd8befb42e4e92a02ad8c171f7b960c7eb9b4f"
 metafile = true
 
 [[files]]
+file = "mods/better-death-by-widder.pw.toml"
+hash = "0eaaa1d004f944155ecb3027cdbfe67edecfc2add5fe982f517a297411bd85e9"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "6e9bddf1d0b01deb875b99fda9395b7bf927ce1a795a70b5a1bd56500e43df03"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Better Death"
+filename = "better-death-V1.0.3-[26.3].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ihVZKCP1/versions/P7IzsI2j/better-death-V1.0.3-%5B26.3%5D.jar"
+hash-format = "sha512"
+hash = "6f039c7f00f76fed46d9f38ee313f3c583a09e0fc7cea05515c315de5bbfef215702d5b706b8db3fa58e1a4759057d5d2906e109d5d1c2ae7b0250ab5b0b1dbb"
+
+[update]
+[update.modrinth]
+mod-id = "ihVZKCP1"
+version = "P7IzsI2j"
