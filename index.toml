@@ -45,6 +45,11 @@ hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "a93e550827695e91d95f71424284688d8daf3fbc703bf351ccc7f109a90df16d"
+metafile = true
+
+[[files]]
 file = "mods/configmanager.pw.toml"
 hash = "404b2ef9032434f6b0c7d70920c557f06b774a0455325481e1b7304eaf03934e"
 metafile = true
@@ -125,6 +130,11 @@ hash = "a7f6a1543f41198911a8b1e5e059fa0c8003365ebd6c2314e2dfa0806aff300a"
 metafile = true
 
 [[files]]
+file = "mods/inventory-particles.pw.toml"
+hash = "4b2cd574e65c803b00eacf76fba5461a7b1286506f938530541c3dfbc9144251"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "1f5c464b85f8ca75424eee7d6e9d5c0a706fe787e399c2dea1071a37a27dc24d"
 metafile = true
@@ -195,6 +205,11 @@ hash = "f32ebeb468312cf555bd84d09c1a3a6e6f9ed992e4afc3ce9620aca571490806"
 metafile = true
 
 [[files]]
+file = "mods/mossylib.pw.toml"
+hash = "552185c96895df6b916e5f8c7f98016f2940f52bb6ebe41bd812b581977c756b"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "adc68c850f1f1fabd3e92c1d94861f770b3580d7b614fbf5191f3f420d1c318e"
 metafile = true
@@ -221,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/renice-shot.pw.toml"
 hash = "9e676b051d74dd58b859571aa82d7bd7ebd6a0132ce63ca34d888941fcf99f12"
+metafile = true
+
+[[files]]
+file = "mods/replanting-crops.pw.toml"
+hash = "8b98c8ee06c4ad27dfeddd60f0059b32631e6a49ea1946790f17d248da562228"
 metafile = true
 
 [[files]]
