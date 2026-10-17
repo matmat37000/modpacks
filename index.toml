@@ -35,6 +35,11 @@ hash = "617d08ab09a27d54060faa2461c5121962c521163fa1a277d4033655831f7803"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "21e9d2a9919d7208f00fdacb1841e7a671e824f0c735f6fee0b45983aaf3501d"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "9eaccd646891bab56c425ac4aa14c5a662da64e2239e1616db833a98e2298326"
 metafile = true
