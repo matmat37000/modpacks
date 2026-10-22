@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "autopush.sh"
-hash = "d24a6e4ab97bbe8514e707e076b6615539c22aaaf160a6ca1229c6ceddae83c3"
-
-[[files]]
 file = "import_modpack.py"
 hash = "b98cc8d5a9b1cbbe05adf4b82a3951e3e281d99403371611fd1a72f89b8441bb"
 
@@ -407,10 +403,6 @@ metafile = true
 file = "mods/puzzles-lib.pw.toml"
 hash = "1468fe3ca18b35fc53563de46046b3ada11913f1ca2a74b057437474128df85a"
 metafile = true
-
-[[files]]
-file = "mods/rattus-26.3-1.0.0-SNAPSHOT.jar"
-hash = "af7c7d948ae65f0df21427ed03a9234b24ad5c7d30a3f9e7a375c4f4abd409e7"
 
 [[files]]
 file = "mods/rattus.pw.toml"
