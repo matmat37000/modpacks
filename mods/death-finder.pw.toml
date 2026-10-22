@@ -1,0 +1,13 @@
+name = "Death Finder"
+filename = "deathfinder-v26.3.0-mc26.3.x+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wNxIBREV/versions/vzCvRIGU/deathfinder-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "b5f91ab52142963fc3d265d0a505e1bdfeba65abc10726fb487598bb589d84238426f2f60470bbee7f4d4ba08c7b83875971782a299448662e6a0de9f3a3d267"
+
+[update]
+[update.modrinth]
+mod-id = "wNxIBREV"
+version = "vzCvRIGU"

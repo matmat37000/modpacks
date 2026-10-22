@@ -1,0 +1,13 @@
+name = "Animated Doors"
+filename = "AnimatedDoors-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EuloLapn/versions/eT2QJyfc/AnimatedDoors-2.0.2.jar"
+hash-format = "sha512"
+hash = "d2bcbf9bab0a1f3e403a393563771ebded459db3e54f18e0d93a85fa04956f74848395c06ff1514876fed6b769d70b916127235645c8c92001784072495dbaac"
+
+[update]
+[update.modrinth]
+mod-id = "EuloLapn"
+version = "eT2QJyfc"

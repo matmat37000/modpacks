@@ -1,0 +1,13 @@
+name = "I'm Fast"
+filename = "imfast-FABRIC-26.3-1.0.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PaUMOeP0/versions/Utpunxwi/imfast-FABRIC-26.3-1.0.6.jar"
+hash-format = "sha512"
+hash = "6617e6438e56240d47baa7a89a71644bfff6b5da4d99efd019352d26194850593461a13ee7405de0b97dc9204adcb9b9a3e27143277336a58fc3a5f19433ebe2"
+
+[update]
+[update.modrinth]
+mod-id = "PaUMOeP0"
+version = "Utpunxwi"

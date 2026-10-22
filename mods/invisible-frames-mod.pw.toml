@@ -1,0 +1,13 @@
+name = "Invisible Frames"
+filename = "invisibleframes-fabric-2.0.1+26.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QD87oMUf/versions/BUWC4XNI/invisibleframes-fabric-2.0.1%2B26.3.jar"
+hash-format = "sha512"
+hash = "2d63b2beb00843bff7752d05b4e22c34cb9f9b0835d7f0fdc6649964b01b6bdfb5ae458916e6f43424b0e1b2aad0d014ef83a36566024cb38cf198c45a78c7dd"
+
+[update]
+[update.modrinth]
+mod-id = "QD87oMUf"
+version = "BUWC4XNI"

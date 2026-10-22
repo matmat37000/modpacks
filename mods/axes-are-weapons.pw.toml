@@ -1,0 +1,13 @@
+name = "Axes Are Weapons"
+filename = "AxesAreWeapons-1.11.0-fabric-26.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1jvt7RTc/versions/F7wV92p3/AxesAreWeapons-1.11.0-fabric-26.3.jar"
+hash-format = "sha512"
+hash = "98dbd1c7e7a31bb630b1dffaf98b31aa4256bfb077629c7b37377af632274ca5a4e2dee5695d1679871005b9ca79da38e2da25b101d150655f02e724a081f970"
+
+[update]
+[update.modrinth]
+mod-id = "1jvt7RTc"
+version = "F7wV92p3"

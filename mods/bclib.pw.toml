@@ -1,0 +1,13 @@
+name = "BCLib"
+filename = "bclib-26.301.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BgNRHReB/versions/DgMxtpAh/bclib-26.301.2.jar"
+hash-format = "sha512"
+hash = "f642a7311b5be0b38b1d8f84c5e76ad33eb205326664520a3124937f414b8c4bc1a11ce6ec34ca1e48bb5367954d4c94a975cfcbaa11daab7ed802e387b2ee10"
+
+[update]
+[update.modrinth]
+mod-id = "BgNRHReB"
+version = "DgMxtpAh"
