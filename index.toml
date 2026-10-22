@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "autopush.sh"
+hash = "d24a6e4ab97bbe8514e707e076b6615539c22aaaf160a6ca1229c6ceddae83c3"
+
+[[files]]
 file = "import_modpack.py"
 hash = "b98cc8d5a9b1cbbe05adf4b82a3951e3e281d99403371611fd1a72f89b8441bb"
 
@@ -406,11 +410,11 @@ metafile = true
 
 [[files]]
 file = "mods/rattus-26.3-1.0.0-SNAPSHOT.jar"
-hash = "f12a9dab26e36b45e558af96deb93de98d4e55b4f97e4c2bace45bda51eff09f"
+hash = "af7c7d948ae65f0df21427ed03a9234b24ad5c7d30a3f9e7a375c4f4abd409e7"
 
 [[files]]
 file = "mods/rattus.pw.toml"
-hash = "34431c33a63b811315180d4a673eb40bd873eb6a65577832428607016098b11a"
+hash = "f57b44a49ba0b9dec8e12846cecdff32cf3596c3d4f4aa372e6ff43d7896d9c6"
 metafile = true
 
 [[files]]
