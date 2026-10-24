@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6dae83195be2f55ba9d38d72bb0da399f8e90b60f70fb4d792820c4f0b1bac43"
+hash = "98ec61a3a75314cde8fe4c015b5e7d92c01890b6172da8f3edb838af96331de8"
 metafile = true
 
 [[files]]
@@ -250,6 +250,11 @@ hash = "3eb12471fce0aadbda432f7fd5ba4e2120e0e0ebbb3663eea756a17ec0254407"
 metafile = true
 
 [[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "c0bb1e86d5df2eaf51aafaad819f808519aadd20438d651ecd0f5632e940ae6b"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "96e6f76c367bf89cc570c0e95a16979806e4c3e24f135878b272e3ef43e00b37"
 metafile = true
@@ -257,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "91ecd94661955cc5d785c021de60311462afac1e0b827e53a7f926c1f7131f99"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-fabric.pw.toml"
+hash = "60948d819466fd252a45a19fce2c6b4d17e486c1daae09faab136a4fd1e5ea94"
 metafile = true
 
 [[files]]
@@ -467,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "93dda82fd6b3af8a0a69e669241a1c80b3640bcc65cb77258418930eb5477335"
+metafile = true
+
+[[files]]
+file = "mods/the-copperier-age.pw.toml"
+hash = "57b176e19f45f55403218709ab079234e39fea7071492dd616d04ae4457042cd"
 metafile = true
 
 [[files]]

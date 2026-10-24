@@ -1,0 +1,13 @@
+name = "The Copperier Age: Copperier Copper"
+filename = "TheCopperierAge-1.2.1-mc26.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xzrWQ21Z/versions/1cpzCwFh/TheCopperierAge-1.2.1-mc26.3-fabric.jar"
+hash-format = "sha512"
+hash = "55de2f6ed29d402172bcf2b034798e9d77d6638b61a6d402767369678abdd2017b1528651ca62be35d10220c6d7842f715359af100c1feb1b064d2e9b76882a7"
+
+[update]
+[update.modrinth]
+mod-id = "xzrWQ21Z"
+version = "1cpzCwFh"
