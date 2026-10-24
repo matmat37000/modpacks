@@ -155,11 +155,6 @@ hash = "a5b7657ae026fcdbd70daeeea8cd8ca04781ff3b385be975764e1999042e54fe"
 metafile = true
 
 [[files]]
-file = "mods/dark-loading-screen.pw.toml"
-hash = "d3ba4cdc25e692082fae2e376fe469b411afef313954a4f28568be6d1aa460b4"
-metafile = true
-
-[[files]]
 file = "mods/death-finder.pw.toml"
 hash = "e419f8b190c8c0a3912094f30cda21b3798ba586841d8921954902af533987c6"
 metafile = true
