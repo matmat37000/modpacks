@@ -260,11 +260,6 @@ hash = "91ecd94661955cc5d785c021de60311462afac1e0b827e53a7f926c1f7131f99"
 metafile = true
 
 [[files]]
-file = "mods/ice-and-fire-fabric.pw.toml"
-hash = "60948d819466fd252a45a19fce2c6b4d17e486c1daae09faab136a4fd1e5ea94"
-metafile = true
-
-[[files]]
 file = "mods/im-fast.pw.toml"
 hash = "4c36f897780723aff9b3d1a7c770e6565a9eea286e4700f6c27fb1a0fe54061f"
 metafile = true
