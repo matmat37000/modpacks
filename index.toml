@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/rattus.pw.toml"
-hash = "f57b44a49ba0b9dec8e12846cecdff32cf3596c3d4f4aa372e6ff43d7896d9c6"
+hash = "2ad39ff4748d735185db47b488d56908eca01bae1cda67256437065a485e97db"
 metafile = true
 
 [[files]]
